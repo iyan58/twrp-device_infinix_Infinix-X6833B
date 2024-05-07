@@ -180,6 +180,10 @@ alias of:N*T*Cmediatek,mt6768-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6768-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6765-disp-pwm pwm_mtk_disp
 alias of:N*T*Cmediatek,mt6765-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6761-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6761-disp-pwmC* pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6739-disp-pwm pwm_mtk_disp
+alias of:N*T*Cmediatek,mt6739-disp-pwmC* pwm_mtk_disp
 alias of:N*T*Cnt36672e,fhdp,dsi,vdo,hx,hx,120hz,x6833b nt36672e_fhdp_dsi_vdo_hx_hx_120hz_x6833b
 alias of:N*T*Cnt36672e,fhdp,dsi,vdo,hx,hx,120hz,x6833bC* nt36672e_fhdp_dsi_vdo_hx_hx_120hz_x6833b
 alias of:N*T*Cmediatek,mt6357-dynamic_loading_throttling mtk_dynamic_loading_throttling
